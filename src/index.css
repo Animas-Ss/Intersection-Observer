@@ -1,0 +1,9 @@
+.principio{
+    transform: scale(0.8);
+    opacity: 0;
+    transition: all 2s ease-out;
+}
+.activa{
+    transform: scale(1);
+    opacity: 1;
+}
